@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Welcome to my GitHub Profile! I'm Kim 😊</h2>
 
 <!--
 **01057057kim/01057057kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
