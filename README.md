@@ -1,7 +1,7 @@
 <h1>Welcome to my GitHub Profile! I'm Kim 😊</h2>
 
 ### Languages :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,pr&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,&perline=8)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01057057kim&layout=compact)
 <!--
