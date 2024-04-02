@@ -4,6 +4,8 @@
   <img align="right" alt="cat typing" width=200px src="./assets/cat-computer.gif" >
 </picture>
 
+<br>
+
 ## About me :
 - I'm a student proficient in HTML and CSS, and improving in JavaScript. Currently exploring Vue.js for dynamic web development.
 - Pursuing a degree in computer science, with hands-on experience through personal web projects.
