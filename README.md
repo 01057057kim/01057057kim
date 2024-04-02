@@ -6,6 +6,7 @@
 - Aiming to become a professional front-end developer, creating user-friendly and aesthetically pleasing websites.
 - Compiling my projects on GitHub to showcase my development journey and skills.
 <hr>
+
 ### Languages :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,&perline=4)](https://skillicons.dev)
 
