@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cabin&weight=500&size=30&duration=3000&pause=1000&color=A1EEBD&background=FF000000&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Hai%2C+I'm+Kim+%F0%9F%98%8A)](https://git.io/typing-svg)
 <hr>
-
+- I’m a student learning to build websites. I’m good at using HTML and CSS, which are the building blocks of web pages, and I’m getting better at JavaScript, which makes websites interactive. I’m also learning how to use Vue.js, a tool that helps make websites more dynamic.
+- Right now, I’m studying computer science and working on small web projects to practice what I’ve learned. My goal is to become a professional front-end developer who can create great-looking and easy-to-use websites.
+- I’m putting together a collection of my work to show what I can do. It’s a work in progress.
+<hr>
 ### Languages :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,&perline=4)](https://skillicons.dev)
 
