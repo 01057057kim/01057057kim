@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/cat-computer.gif" width=400px>
+  <img align="right" alt="" src="./assets/cat-computer.gif" width=300px>
 </picture>
 
 ## About me :
