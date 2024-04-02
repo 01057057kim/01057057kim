@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/cat-computer" width=400px>
+  <img align="right" alt="" src="./assets/cat-computer.gif" width=400px>
 </picture>
 
-## About me 😄 :
+## About me :
 - I'm a student proficient in HTML and CSS, and improving in JavaScript. Currently exploring Vue.js for dynamic web development.
 - Pursuing a degree in computer science, with hands-on experience through personal web projects.
 - Aiming to become a professional front-end developer, creating user-friendly and aesthetically pleasing websites.
