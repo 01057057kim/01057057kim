@@ -14,8 +14,9 @@
 
 
 ## 🛠️Languages :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,&perline=4)]!
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01057057kim&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vscode,github,git,&perline=4)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01057057kim&layout=compact)
 
 <!--
 **01057057kim/01057057kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
