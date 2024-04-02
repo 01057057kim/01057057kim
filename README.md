@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cabin&weight=500&size=30&duration=3000&pause=1000&color=A1EEBD&background=FF000000&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Hai%2C+I'm+Kim+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<picture>
-  <img align="center" alt="cat typing" width=200px src="./assets/cat-computer.gif" >
-</picture>
+<img align="center" alt="cat typing" width=200px src="./assets/cat-computer.gif" >
 
 ## About me :
-- I'm a student proficient in HTML and CSS, and improving in JavaScript. Currently exploring Vue.js for dynamic web development.
+- I'm a student learning to build websites. I’m good at using HTML and CSS, and improving in JavaScript. Currently exploring Vue.js for dynamic web development.
 - Pursuing a degree in computer science, with hands-on experience through personal web projects.
 - Aiming to become a professional front-end developer, creating user-friendly and aesthetically pleasing websites.
 - Compiling my projects on GitHub to showcase my development journey and skills.
