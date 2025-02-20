@@ -7,9 +7,9 @@
 </p>
 
 ## ⭐About me :
-- I'm a student learning to build websites. I’m good at using HTML and CSS, and improving in JavaScript. Currently exploring Vue.js for dynamic web development.
+- I'm a student learning to build websites. I’m good at using HTML and CSS, and improving in JavaScript. Currently exploring Vue.js, Express js and MongoDB for dynamic web development.
 - Pursuing a degree in computer science, with hands-on experience through web projects.
-- Aiming to become a professional front-end developer, creating user-friendly and aesthetically pleasing websites.
+- Aiming to become a professional front-end developer or back-end developer.
 - Compiling my projects on GitHub to showcase my development journey and skills.
 
 
