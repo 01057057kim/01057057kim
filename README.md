@@ -14,7 +14,7 @@
 
 
 ## 🛠️Languages :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,express,mongodb,vscode,github,git,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,express,mongodb,github,git,&perline=4)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01057057kim&layout=compact)
 
